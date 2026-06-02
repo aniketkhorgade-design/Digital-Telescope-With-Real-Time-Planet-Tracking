@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Digtial_Telescope_V_2.0
+</name>
+</assembly>
+<members>
+<member name="T:Digtial_Telescope_V_2._0.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Jupiter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Mars">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Mercury">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Moon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Neptune">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Pluto">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Saturn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Sun">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Uranus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digtial_Telescope_V_2._0.My.Resources.Resources.Venus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
